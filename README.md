@@ -1,6 +1,6 @@
 # StreamLitExamples
 
-Streamlit Exammples Respository
+Streamlit Examples Respository
 
 Author: Shomo
 Org Champlain
